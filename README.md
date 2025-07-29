@@ -1,0 +1,1 @@
+LifeExpectancyData is my first Data Analysis project to just be able to use some of my knowldge on the subject. Created an interactive dashboard using Power BI and used Google Colab to do some simple EDA and reorganizing the data. In the future my do some ML/DL on this data set once i have gained more knowledge on how to do them.
